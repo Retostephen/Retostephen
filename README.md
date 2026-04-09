@@ -12,7 +12,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```diff
 + Crafting high-performance interfaces
@@ -22,7 +22,7 @@
 
 ---
 
-## ⚡ Tech Arsenal
+## Tech Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,python,cs,cpp&perline=4" />
@@ -30,16 +30,14 @@
 
 ---
 
-## 📊 Performance Metrics
-
+## Performance Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Retostephen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retostephen&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Retostephen&theme=tokyonight" />
 </p>
-
+  
 ---
 
-## 🔥 Activity Streak
+## Activity Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Retostephen&theme=tokyonight&hide_border=true&background=00000000" />
@@ -47,7 +45,7 @@
 
 ---
 
-## 🌌 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Retostephen&theme=tokyo-night&hide_border=true&bg_color=00000000&color=00FFB3&line=00FFB3&point=FFFFFF" />
@@ -55,7 +53,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Retostephen/Retostephen/output/github-contribution-grid-snake.svg" />
@@ -63,7 +61,7 @@
 
 ---
 
-## 🧩 Tech Vibe
+## Tech Vibe
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Clean-00FFB3?style=for-the-badge&logo=codefactor&logoColor=black"/>
@@ -73,7 +71,7 @@
 
 ---
 
-## 🌐 Connect
+## Connect
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-00FFB3?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
